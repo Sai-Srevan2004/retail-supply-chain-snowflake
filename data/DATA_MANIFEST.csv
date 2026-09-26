@@ -1,0 +1,12 @@
+file,records
+initial/customers_initial.csv,5001
+initial/products_initial.csv,1000
+initial/suppliers_initial.csv,100
+initial/stores_initial.csv,50
+initial/sales_initial.csv,50001
+incremental/batch_01/customers_batch_01.csv,800
+incremental/batch_01/products_batch_01.csv,150
+incremental/batch_01/sales_batch_01.csv,10000
+incremental/batch_02/customers_batch_02.csv,700
+incremental/batch_02/products_batch_02.csv,150
+incremental/batch_02/sales_batch_02.csv,10025

@@ -1,0 +1,101 @@
+supplier_id,supplier_name,city,state,country,contact_email,updated_at
+SUP0001,Supplier 001,Gurugram,Haryana,INDIA,supplier1@example.com,2026-08-15 00:00:00
+SUP0002,Supplier 002,Delhi,Delhi,INDIA,supplier2@example.com,2026-04-07 00:00:00
+SUP0003,Supplier 003,Mumbai,Maharashtra,INDIA,supplier3@example.com,2026-06-13 00:00:00
+SUP0004,Supplier 004,Kolkata,West Bengal,INDIA,supplier4@example.com,2026-09-01 00:00:00
+SUP0005,  Global Supplies Pvt Ltd  ,Kolkata,West Bengal,INDIA,supplier5@example.com,2026-01-25 00:00:00
+SUP0006,Supplier 006,Bengaluru,Karnataka,INDIA,supplier6@example.com,2026-03-29 00:00:00
+SUP0007,Supplier 007,Ahmedabad,Gujarat,INDIA,supplier7@example.com,2026-05-24 00:00:00
+SUP0008,Supplier 008,Chennai,Tamil Nadu,INDIA,bad-email,2026-08-15 00:00:00
+SUP0009,Supplier 009,Bengaluru,Karnataka,INDIA,supplier9@example.com,2026-08-02 00:00:00
+SUP0010,Supplier 010,Ahmedabad,Gujarat,INDIA,supplier10@example.com,2026-08-10 00:00:00
+SUP0011,Supplier 011,Kolkata,West Bengal,INDIA,supplier11@example.com,2026-09-03 00:00:00
+SUP0012,Supplier 012,Hyderabad,Telangana,INDIA,supplier12@example.com,2026-06-22 00:00:00
+SUP0013,Supplier 013,Ahmedabad,telangana,INDIA,supplier13@example.com,2026-07-22 00:00:00
+SUP0014,Supplier 014,Jaipur,Rajasthan,INDIA,supplier14@example.com,2026-03-13 00:00:00
+SUP0015,Supplier 015,Bengaluru,Karnataka,INDIA,supplier15@example.com,2026-08-27 00:00:00
+SUP0016,Supplier 016,Hyderabad,Telangana,INDIA,supplier16@example.com,2026-05-05 00:00:00
+SUP0017,Supplier 017,Jaipur,Rajasthan,INDIA,supplier17@example.com,2026-01-31 00:00:00
+SUP0018,Supplier 018,Bengaluru,Karnataka,INDIA,supplier18@example.com,2026-04-17 00:00:00
+SUP0019,Supplier 019,Bengaluru,Karnataka,INDIA,supplier19@example.com,2026-01-20 00:00:00
+SUP0020,Supplier 020,Mumbai,Maharashtra,INDIA,supplier20@example.com,2026-08-27 00:00:00
+SUP0021,Supplier 021,Gurugram,Haryana,INDIA,supplier21@example.com,2026-03-07 00:00:00
+SUP0022,Supplier 022,Mumbai,Maharashtra,INDIA,supplier22@example.com,2026-04-08 00:00:00
+SUP0023,Supplier 023,Bengaluru,Karnataka,INDIA,supplier23@example.com,2026-09-05 00:00:00
+SUP0024,Supplier 024,Bengaluru,Karnataka,INDIA,supplier24@example.com,2026-05-30 00:00:00
+SUP0025,Supplier 025,Ahmedabad,Gujarat,INDIA,supplier25@example.com,2026-03-03 00:00:00
+SUP0026,Supplier 026,Hyderabad,Telangana,INDIA,supplier26@example.com,2026-07-14 00:00:00
+SUP0027,Supplier 027,Jaipur,Rajasthan,INDIA,supplier27@example.com,2026-04-28 00:00:00
+SUP0028,Supplier 028,Delhi,Delhi,INDIA,supplier28@example.com,2026-07-24 00:00:00
+SUP0029,Supplier 029,Mumbai,Maharashtra,INDIA,supplier29@example.com,2026-02-14 00:00:00
+SUP0030,Supplier 030,Mumbai,Maharashtra,INDIA,supplier30@example.com,2026-08-12 00:00:00
+SUP0031,Supplier 031,Kolkata,West Bengal,INDIA,supplier31@example.com,2026-02-24 00:00:00
+SUP0032,Supplier 032,Ahmedabad,Gujarat,INDIA,supplier32@example.com,2026-08-23 00:00:00
+SUP0033,Supplier 033,Ahmedabad,Gujarat,INDIA,supplier33@example.com,2026-08-08 00:00:00
+SUP0034,Supplier 034,Delhi,Delhi,INDIA,supplier34@example.com,2026-09-06 00:00:00
+SUP0035,Supplier 035,Chennai,Tamil Nadu,INDIA,supplier35@example.com,2026-03-03 00:00:00
+SUP0036,Supplier 036,Kolkata,West Bengal,INDIA,supplier36@example.com,2026-07-04 00:00:00
+SUP0037,Supplier 037,Kolkata,West Bengal,INDIA,supplier37@example.com,2026-09-06 00:00:00
+SUP0038,Supplier 038,Mumbai,Maharashtra,INDIA,supplier38@example.com,2026-05-24 00:00:00
+SUP0039,Supplier 039,Kolkata,West Bengal,INDIA,supplier39@example.com,2026-04-28 00:00:00
+SUP0040,Supplier 040,Hyderabad,Telangana,INDIA,supplier40@example.com,2026-01-15 00:00:00
+SUP0041,Supplier 041,Kolkata,West Bengal,INDIA,supplier41@example.com,2026-05-24 00:00:00
+SUP0042,Supplier 042,Ahmedabad,Gujarat,INDIA,supplier42@example.com,2026-08-16 00:00:00
+SUP0043,Supplier 043,Bengaluru,Karnataka,INDIA,supplier43@example.com,2026-06-11 00:00:00
+SUP0044,Supplier 044,Chennai,Tamil Nadu,INDIA,supplier44@example.com,2026-03-29 00:00:00
+SUP0045,Supplier 045,Pune,Maharashtra,INDIA,supplier45@example.com,2026-02-14 00:00:00
+SUP0046,Supplier 046,Delhi,Delhi,INDIA,supplier46@example.com,2026-08-27 00:00:00
+SUP0047,Supplier 047,Bengaluru,Karnataka,INDIA,supplier47@example.com,2026-02-10 00:00:00
+SUP0048,Supplier 048,Bengaluru,Karnataka,INDIA,supplier48@example.com,2026-07-12 00:00:00
+SUP0049,Supplier 049,Ahmedabad,Gujarat,INDIA,supplier49@example.com,2026-08-01 00:00:00
+SUP0050,Supplier 050,Hyderabad,Telangana,INDIA,supplier50@example.com,2026-05-21 00:00:00
+SUP0051,Supplier 051,Chennai,Tamil Nadu,INDIA,supplier51@example.com,2026-07-13 00:00:00
+SUP0052,Supplier 052,Chennai,Tamil Nadu,INDIA,supplier52@example.com,2026-04-14 00:00:00
+SUP0053,Supplier 053,Kolkata,West Bengal,INDIA,supplier53@example.com,2026-05-27 00:00:00
+SUP0054,Supplier 054,Jaipur,Rajasthan,INDIA,supplier54@example.com,2026-01-16 00:00:00
+SUP0055,Supplier 055,Jaipur,Rajasthan,INDIA,supplier55@example.com,2026-04-15 00:00:00
+SUP0056,Supplier 056,Gurugram,Haryana,INDIA,supplier56@example.com,2026-04-16 00:00:00
+SUP0057,Supplier 057,Hyderabad,Telangana,INDIA,supplier57@example.com,2026-02-07 00:00:00
+SUP0058,Supplier 058,Ahmedabad,Gujarat,INDIA,supplier58@example.com,2026-04-21 00:00:00
+SUP0059,Supplier 059,Delhi,Delhi,INDIA,supplier59@example.com,2026-08-22 00:00:00
+SUP0060,Supplier 060,Pune,Maharashtra,INDIA,supplier60@example.com,2026-05-21 00:00:00
+SUP0061,Supplier 061,Pune,Maharashtra,INDIA,supplier61@example.com,2026-08-01 00:00:00
+SUP0062,Supplier 062,Jaipur,Rajasthan,INDIA,supplier62@example.com,2026-06-15 00:00:00
+SUP0063,Supplier 063,Delhi,Delhi,INDIA,supplier63@example.com,2026-04-28 00:00:00
+SUP0064,Supplier 064,Bengaluru,Karnataka,INDIA,supplier64@example.com,2026-04-15 00:00:00
+SUP0065,Supplier 065,Mumbai,Maharashtra,INDIA,supplier65@example.com,2026-04-14 00:00:00
+SUP0066,Supplier 066,Ahmedabad,Gujarat,INDIA,supplier66@example.com,2026-02-04 00:00:00
+SUP0067,Supplier 067,Bengaluru,Karnataka,INDIA,supplier67@example.com,2026-07-16 00:00:00
+SUP0068,Supplier 068,Hyderabad,Telangana,INDIA,supplier68@example.com,2026-08-01 00:00:00
+SUP0069,Supplier 069,Hyderabad,Telangana,INDIA,supplier69@example.com,2026-02-18 00:00:00
+SUP0070,Supplier 070,Kolkata,West Bengal,INDIA,supplier70@example.com,2026-01-03 00:00:00
+SUP0071,Supplier 071,Jaipur,Rajasthan,INDIA,supplier71@example.com,2026-08-04 00:00:00
+SUP0072,Supplier 072,Hyderabad,Telangana,INDIA,supplier72@example.com,2026-04-25 00:00:00
+SUP0073,Supplier 073,Hyderabad,Telangana,INDIA,supplier73@example.com,2026-07-27 00:00:00
+SUP0074,Supplier 074,Pune,Maharashtra,INDIA,supplier74@example.com,2026-05-05 00:00:00
+SUP0075,Supplier 075,Ahmedabad,Gujarat,INDIA,supplier75@example.com,2026-07-18 00:00:00
+SUP0076,Supplier 076,Hyderabad,Telangana,INDIA,supplier76@example.com,2026-05-16 00:00:00
+SUP0077,Supplier 077,Ahmedabad,Gujarat,INDIA,supplier77@example.com,2026-07-12 00:00:00
+SUP0078,Supplier 078,Gurugram,Haryana,INDIA,supplier78@example.com,2026-08-24 00:00:00
+SUP0079,Supplier 079,Gurugram,Haryana,INDIA,supplier79@example.com,2026-07-12 00:00:00
+SUP0080,Supplier 080,Jaipur,Rajasthan,INDIA,supplier80@example.com,2026-02-27 00:00:00
+SUP0081,Supplier 081,Chennai,Tamil Nadu,INDIA,supplier81@example.com,2026-01-10 00:00:00
+SUP0082,Supplier 082,Kolkata,West Bengal,INDIA,supplier82@example.com,2026-07-24 00:00:00
+SUP0083,Supplier 083,Hyderabad,Telangana,INDIA,supplier83@example.com,2026-05-27 00:00:00
+SUP0084,Supplier 084,Ahmedabad,Gujarat,INDIA,supplier84@example.com,2026-03-02 00:00:00
+SUP0085,Supplier 085,Mumbai,Maharashtra,INDIA,supplier85@example.com,2026-05-10 00:00:00
+SUP0086,Supplier 086,Mumbai,Maharashtra,INDIA,supplier86@example.com,2026-06-02 00:00:00
+SUP0087,Supplier 087,Chennai,Tamil Nadu,INDIA,supplier87@example.com,2026-06-22 00:00:00
+SUP0088,Supplier 088,Gurugram,Haryana,INDIA,supplier88@example.com,2026-05-06 00:00:00
+SUP0089,Supplier 089,Mumbai,Maharashtra,INDIA,supplier89@example.com,2026-05-19 00:00:00
+SUP0090,Supplier 090,Kolkata,West Bengal,INDIA,supplier90@example.com,2026-08-10 00:00:00
+SUP0091,Supplier 091,Gurugram,Haryana,INDIA,supplier91@example.com,2026-08-28 00:00:00
+SUP0092,Supplier 092,Chennai,Tamil Nadu,INDIA,supplier92@example.com,2026-06-07 00:00:00
+SUP0093,Supplier 093,Gurugram,Haryana,INDIA,supplier93@example.com,2026-03-30 00:00:00
+SUP0094,Supplier 094,Hyderabad,Telangana,INDIA,supplier94@example.com,2026-08-07 00:00:00
+SUP0095,Supplier 095,Kolkata,West Bengal,INDIA,supplier95@example.com,2026-07-24 00:00:00
+SUP0096,Supplier 096,Mumbai,Maharashtra,INDIA,supplier96@example.com,2026-06-22 00:00:00
+SUP0097,Supplier 097,Mumbai,Maharashtra,INDIA,supplier97@example.com,2026-07-27 00:00:00
+SUP0098,Supplier 098,Delhi,Delhi,INDIA,supplier98@example.com,2026-04-12 00:00:00
+SUP0099,Supplier 099,Delhi,Delhi,INDIA,supplier99@example.com,2026-04-24 00:00:00
+SUP0100,Supplier 100,Chennai,Tamil Nadu,INDIA,supplier100@example.com,2026-04-20 00:00:00

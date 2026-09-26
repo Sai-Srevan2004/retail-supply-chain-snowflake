@@ -1,0 +1,68 @@
+# ==============================
+# Snowflake Retail Supply Chain
+# ==============================
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Snowflake credentials / configuration
+*.pem
+*.key
+*.p8
+*.crt
+secrets/
+credentials/
+
+# Local Python environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Local generated files
+output/
+outputs/
+tmp/
+temp/
+
+# Large/generated data files
+*.parquet
+*.avro
+
+# Local CSV files
+# Uncomment if you do NOT want raw/generated CSVs in Git
+# *.csv
+
+# SnowSQL / CLI history
+.snowsql/
