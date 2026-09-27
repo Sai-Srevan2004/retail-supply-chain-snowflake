@@ -56,7 +56,7 @@ SELECT
         _loaded_at
     ) AS effective_start_date,
 
-    NULL AS effective_end_date,
+    '9999-12-31 23:59:59.000'::TIMESTAMP_NTZ AS effective_end_date,
 
     TRUE AS is_current,
 

@@ -1,0 +1,21 @@
+SELECT
+    'CUSTOMERS' AS entity,
+    COUNT(*) AS silver_batch_01_count
+FROM SILVER.CUSTOMERS
+WHERE _batch_id = 'BATCH_01'
+
+UNION ALL
+
+SELECT
+    'PRODUCTS',
+    COUNT(*)
+FROM SILVER.PRODUCTS
+WHERE _batch_id = 'BATCH_01'
+
+UNION ALL
+
+SELECT
+    'SALES',
+    COUNT(*)
+FROM SILVER.SALES
+WHERE _batch_id = 'BATCH_01';
