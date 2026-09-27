@@ -7,7 +7,7 @@ USE SCHEMA SILVER;
 -- REJECTION / QUARANTINE TABLE
 -- ============================================================
 
-CREATE OR REPLACE TABLE SILVER.REJECTED_RECORDS (
+CREATE TABLE IF NOT EXISTS SILVER.REJECTED_RECORDS (
     reject_id          NUMBER AUTOINCREMENT,
     source_file        VARCHAR,
     entity_name        VARCHAR,
