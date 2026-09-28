@@ -1,3 +1,7 @@
+USE WAREHOUSE RETAIL_WH;
+USE DATABASE RETAIL_SUPPLY_CHAIN;
+USE SCHEMA GOLD;
+
 CREATE OR REPLACE TEMPORARY TABLE SILVER_STREAM_DATA_CUSTOMERS AS
 SELECT customer_id, customer_name, email, phone, region, segment,
        created_at, updated_at, _source_file, _batch_id, _loaded_at
