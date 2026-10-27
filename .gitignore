@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Local secrets / credentials
+.env
+*.pem
+*.key
+
+# Python cache if the data generator is extended
+__pycache__/
+*.py[cod]
+
+# Snowflake CLI / local logs
+*.log

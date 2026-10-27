@@ -1,0 +1,28 @@
+USE DATABASE RETAIL_SUPPLY_CHAIN;
+
+-- Production-style ELT automation:
+-- RAW streams detect unconsumed CDC rows.
+-- Triggered tasks run only when their stream has data.
+-- The tasks are intentionally kept independent because customer and sales
+-- batches may arrive independently.
+
+CREATE OR REPLACE TASK GOLD.CUSTOMER_INCREMENTAL_TASK
+  WAREHOUSE = RETAIL_WH
+  WHEN SYSTEM$STREAM_HAS_DATA('RETAIL_SUPPLY_CHAIN.RAW.CUSTOMER_STREAM')
+AS
+  CALL GOLD.PROCESS_CUSTOMER_INCREMENTAL();
+
+CREATE OR REPLACE TASK GOLD.SALES_INCREMENTAL_TASK
+  WAREHOUSE = RETAIL_WH
+  WHEN SYSTEM$STREAM_HAS_DATA('RETAIL_SUPPLY_CHAIN.RAW.SALES_STREAM')
+AS
+  CALL GOLD.PROCESS_SALES_INCREMENTAL();
+
+-- Keep tasks suspended until the manual initial-load and batch validation
+-- has been completed.
+ALTER TASK GOLD.CUSTOMER_INCREMENTAL_TASK SUSPEND;
+ALTER TASK GOLD.SALES_INCREMENTAL_TASK SUSPEND;
+
+-- After validation, enable automation:
+-- ALTER TASK GOLD.CUSTOMER_INCREMENTAL_TASK RESUME;
+-- ALTER TASK GOLD.SALES_INCREMENTAL_TASK RESUME;

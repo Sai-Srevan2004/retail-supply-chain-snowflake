@@ -1,0 +1,31 @@
+store_id,store_name,city,state,region,store_type,opened_date
+ST001,Vijayawada - Benz Circle,Vijayawada,AP,SOUTH,HIGH_STREET,2020-01-21
+ST002,Kolkata - Park Street,Kolkata,WB,EAST,HIGH_STREET,2016-05-27
+ST003,Bhubaneswar - Saheed Nagar,Bhubaneswar,OD,EAST,HIGH_STREET,2022-02-17
+ST004,Bengaluru - Indiranagar,Bengaluru,KA,SOUTH,HIGH_STREET,2025-02-27
+ST005,Delhi - Connaught Place,Delhi,DL,NORTH,HIGH_STREET,2015-02-06
+ST006,Amritsar - Ranjit Avenue,Amritsar,PB,NORTH,MALL,2024-02-24
+ST007,Hyderabad - Banjara Hills,Hyderabad,TS,SOUTH,MALL,2024-05-16
+ST008,Chennai - T Nagar,Chennai,TN,SOUTH,HYPERMARKET,2022-11-22
+ST009,Panaji - Miramar,Panaji,GA,WEST,HIGH_STREET,2023-04-26
+ST010,Mumbai - Andheri West,Mumbai,MH,WEST,MALL,2019-11-08
+ST011,Pune - Koregaon Park,Pune,MH,WEST,HIGH_STREET,2022-06-22
+ST012,Chennai - Velachery,Chennai,TN,SOUTH,HIGH_STREET,2019-03-15
+ST013,Patna - Boring Road,Patna,BR,EAST,HYPERMARKET,2017-11-19
+ST014,Kolkata - Salt Lake,Kolkata,WB,EAST,HYPERMARKET,2024-11-11
+ST015,Kochi - Edappally,Kochi,KL,SOUTH,HIGH_STREET,2017-09-25
+ST016,Surat - Adajan,Surat,GJ,WEST,HYPERMARKET,2023-04-20
+ST017,Visakhapatnam - MVP Colony,Visakhapatnam,AP,SOUTH,HYPERMARKET,2020-06-24
+ST018,Hyderabad - Gachibowli,Hyderabad,TS,SOUTH,HIGH_STREET,2020-06-11
+ST019,Chandigarh - Sector 17,Chandigarh,CH,NORTH,WAREHOUSE_OUTLET,2015-02-28
+ST020,Delhi - Saket,Delhi,DL,NORTH,HIGH_STREET,2016-10-26
+ST021,Mumbai - Powai,Mumbai,MH,WEST,EXPRESS,2021-04-24
+ST022,Coimbatore - RS Puram,Coimbatore,TN,SOUTH,HIGH_STREET,2016-01-08
+ST023,Noida - Sector 18,Noida,UP,NORTH,MALL,2025-03-05
+ST024,Bengaluru - Whitefield,Bengaluru,KA,SOUTH,HIGH_STREET,2015-09-02
+ST025,Lucknow - Hazratganj,Lucknow,UP,NORTH,WAREHOUSE_OUTLET,2018-10-19
+ST026,Ahmedabad - Satellite,Ahmedabad,GJ,WEST,EXPRESS,2022-02-21
+ST027,Thiruvananthapuram - Technopark Road,Thiruvananthapuram,KL,SOUTH,HIGH_STREET,2017-03-11
+ST028,Nagpur - Dharampeth,Nagpur,MH,WEST,HYPERMARKET,2018-05-23
+ST029,Jaipur - Malviya Nagar,Jaipur,RJ,NORTH,MALL,2019-08-07
+ST030,Gurugram - Sector 29,Gurugram,HR,NORTH,EXPRESS,2018-05-29
